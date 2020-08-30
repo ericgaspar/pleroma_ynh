@@ -1,4 +1,4 @@
-# Pleroma app for Yunohost
+# Pleroma for YunoHost
 
 [![Integration level](https://dash.yunohost.org/integration/pleroma.svg)](https://dash.yunohost.org/appci/app/pleroma) ![](https://ci-apps.yunohost.org/ci/badges/pleroma.status.svg) ![](https://ci-apps.yunohost.org/ci/badges/pleroma.maintain.svg)  
 [![Install Pleroma with YunoHost](https://install-app.yunohost.org/install-with-yunohost.png)](https://install-app.yunohost.org/?app=pleroma)
@@ -23,7 +23,7 @@ For user friendly details about Pleroma: [see here](https://blog.soykaf.com/post
 - Tootdon (Android + iOS)
 - Tootle (iOS)
 
-**Shipped version:** 2.0.7
+**Shipped version:** 2.1.0
 
 ## Important points to read before installing
 
@@ -69,15 +69,15 @@ You can make users **moderators**. They will then be able to **delete any post**
 ## Documentation
 
  * Official documentation: https://docs.pleroma.social/
- * Yunohost apps documentation: https://yunohost.org/#/app_pleroma
+ * YunoHost apps documentation: https://yunohost.org/#/app_pleroma
 
 ## YunoHost specific features
 
 #### Multi-user support
 
-LDAP supported but HTTP auth not.
+* LDAP supported but HTTP auth not.
 
-The app can be used by multiple users.
+* The app can be used by multiple users.
 
 #### Supported architectures
 
